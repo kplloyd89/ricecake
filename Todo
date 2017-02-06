@@ -1,0 +1,9 @@
+1) Sweep through all loops once more looking for a way to optimize further
+
+2) Allow for metadata assumption which will elimiate the need for redundent info in .ini files
+
+3) Integrate a more graceful method to apply question and answer keys
+
+4) Create a .bat file for windows once compatibility is confirmed allowing for drag and drop activation
+
+
